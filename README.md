@@ -204,6 +204,9 @@ aiohttp的初始化函数init()也是一个coroutine，`loop.create_server()`则
 
 #### 廖雪峰实战
 
+失败了，不知道JavaScript
+后端不显示信息
+
 1. ***基本的app.py骨架***
 
    ```python
